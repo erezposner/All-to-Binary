@@ -1,4 +1,5 @@
-# MATLAB_Gif_Generator
+# All-to-Binary
+
 Simple function to generate a binary representation of data files
 could be images or data
 
